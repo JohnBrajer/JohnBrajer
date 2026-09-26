@@ -1,0 +1,28 @@
+# John Brajer
+
+> Founder and systems architect building Trillsverse — the reality update.
+
+GitHub: https://github.com/JohnBrajer
+Trillsverse: https://trillsverse.com
+Company: Trillsverse LLC
+Public developer + research surface: https://github.com/JohnBrajer/trillsverse-dev
+Intelligence Injections: https://trillsverse.com/intelligence-injections
+Public index: https://johnbrajer.github.io/trillsverse-dev/
+
+## Public research repositories
+
+https://github.com/JohnBrajer/mechanisms
+https://github.com/JohnBrajer/perspective-expansion
+https://github.com/JohnBrajer/cwi
+https://github.com/JohnBrajer/prs
+https://github.com/JohnBrajer/possibility-reserve
+https://github.com/JohnBrajer/state-space-trajectory
+https://github.com/JohnBrajer/execution-contract
+https://github.com/JohnBrajer/conditional-failure-memory
+https://github.com/JohnBrajer/graded-dormancy
+https://github.com/JohnBrajer/causal-reactivation
+https://github.com/JohnBrajer/path-expansion
+https://github.com/JohnBrajer/universal-expression
+https://github.com/JohnBrajer/universal-consequences
+https://github.com/JohnBrajer/mirror-architecture
+https://github.com/JohnBrajer/interpret-receive-resonate-align
