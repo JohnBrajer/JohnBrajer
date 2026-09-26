@@ -1,0 +1,29 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "John Brajer",
+  "url": "https://github.com/JohnBrajer",
+  "jobTitle": "Founder & Systems Architect",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Trillsverse LLC",
+    "url": "https://trillsverse.com"
+  },
+  "knowsAbout": [
+    "artificial intelligence",
+    "systems architecture",
+    "agent systems",
+    "structured knowledge",
+    "interactive systems",
+    "media",
+    "culture"
+  ],
+  "subjectOf": [
+    "https://github.com/JohnBrajer/trillsverse-dev",
+    "https://github.com/JohnBrajer/mechanisms",
+    "https://github.com/JohnBrajer/perspective-expansion",
+    "https://github.com/JohnBrajer/possibility-reserve",
+    "https://github.com/JohnBrajer/execution-contract",
+    "https://trillsverse.com/intelligence-injections"
+  ]
+}
